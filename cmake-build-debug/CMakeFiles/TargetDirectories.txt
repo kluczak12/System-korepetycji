@@ -1,0 +1,13 @@
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/library/CMakeFiles/Library.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/library/CMakeFiles/LibraryTester.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/library/CMakeFiles/check.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/library/CMakeFiles/test.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/library/CMakeFiles/edit_cache.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/library/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/program/CMakeFiles/Program.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/program/CMakeFiles/test.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/program/CMakeFiles/edit_cache.dir
+/mnt/c/Users/klucz/CLionProjects/start/project/cmake-build-debug/program/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,19 @@
+
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Fizyka, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 4, czy zajecia w grupie: 0, czas początku zajęć: 2024-Jun-13 12:00:00120.700000
+Informacje o zajęciach: Przedmiot Matematyka, cena za godzinę: 130.000000, cena za materiały: 20, liczba nauczycieli: 2, czy zajecia w grupie: 1, czas początku zajęć: 2024-Jun-13 12:00:000.000000
+Informacje o zajęciach: Przedmiot Matma, cena za godzinę: 130.000000, cena za materiały: 20, liczba nauczycieli: 2, czy zajecia w grupie: 1, czas początku zajęć: 2024-Jun-13 12:00:000.000000
+Informacje o zajęciach: Przedmiot a, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 10, cena zwiększona przez zajęcia z native o: 50.000000, poziom języka: A1, który zwiększa cenę za godzinę o 10.000000 procent, czas początku zajęć: 2024-Jun-13 12:00:000.000000
+Informacje o zajęciach: Przedmiot matematyka, cena za godzinę: 130.000000, cena za materiały: 20, liczba nauczycieli: 2, czy zajecia w grupie: 1, czas początku zajęć: 2024-Jun-13 12:00:000.000000
+Informacje o zajęciach: Przedmiot r, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 10, cena zwiększona przez zajęcia z native o: 50.000000, poziom języka: A1, który zwiększa cenę za godzinę o 10.000000 procent, czas początku zajęć: 2024-Jun-13 12:00:000.000000
+Informacje o zajęciach: Przedmiot matma, cena za godzinę: 80.000000, cena za materiały: 50, liczba nauczycieli: 10, cena zwiększona przez zajęcia z native o: 50.000000, poziom języka: A1, który zwiększa cenę za godzinę o 10.000000 procent, czas początku zajęć: 2024-Jun-13 12:00:000.000000
